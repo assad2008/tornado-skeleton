@@ -1,6 +1,6 @@
 # coding=utf-8
 
-from paycenter.models.schemas import Appleorders
+from src.models.schemas import Appleorders
 
 
 class applereceiptModel(object):

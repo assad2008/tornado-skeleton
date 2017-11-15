@@ -2,8 +2,7 @@
 
 import time
 
-from paycenter.models.schemas import Orders
-from paycenter.common.readamount import paseramount
+from src.models.schemas import Orders
 
 
 class orderModel(object):
